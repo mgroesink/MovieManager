@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Film Manager</string>
+
+    <string name="navigation_drawer_open">Open navigatie menu</string>
+    <string name="navigation_drawer_close">Sluit navigatie menu</string>
+
+    <string name="action_settings">Instellingen</string>
+    <string name="nav_now_playing">Speelt nu</string>
+    <string name="nav_upcoming">Binnenkort</string>
+    <string name="nav_logout">Uitloggen</string>
+</resources>
